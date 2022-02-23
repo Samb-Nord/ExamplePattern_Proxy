@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8d36f768-1da1-4c20-9c9d-df9d751373db": {
+      "ProjectGuid": "8d36f768-1da1-4c20-9c9d-df9d751373db",
+      "DisplayName": "AppTransaction",
+      "ColorIndex": 0
+    },
+    "1e10fe57-d3d5-4999-9e54-ec8a8a543c7b": {
+      "ProjectGuid": "1e10fe57-d3d5-4999-9e54-ec8a8a543c7b",
+      "DisplayName": "ClassLibrary_Transaction",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Fichiers divers",
+      "ColorIndex": -1
+    },
+    "ac5344a5-eb64-41f0-ba97-77f1fe4b5f5e": {
+      "ProjectGuid": "ac5344a5-eb64-41f0-ba97-77f1fe4b5f5e",
+      "DisplayName": "WindowsFormsAppProxy",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

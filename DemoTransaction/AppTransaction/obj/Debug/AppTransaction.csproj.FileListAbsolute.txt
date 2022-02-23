@@ -1,0 +1,11 @@
+C:\Users\Stagiaire\Documents\CDA\Conception_Partie2_CDA\Presentation_DD_PROXY\DemoTransaction\AppTransaction\bin\Debug\AppTransaction.exe.config
+C:\Users\Stagiaire\Documents\CDA\Conception_Partie2_CDA\Presentation_DD_PROXY\DemoTransaction\AppTransaction\bin\Debug\AppTransaction.exe
+C:\Users\Stagiaire\Documents\CDA\Conception_Partie2_CDA\Presentation_DD_PROXY\DemoTransaction\AppTransaction\bin\Debug\AppTransaction.pdb
+C:\Users\Stagiaire\Documents\CDA\Conception_Partie2_CDA\Presentation_DD_PROXY\DemoTransaction\AppTransaction\bin\Debug\ClassLibrary_Transaction.dll
+C:\Users\Stagiaire\Documents\CDA\Conception_Partie2_CDA\Presentation_DD_PROXY\DemoTransaction\AppTransaction\bin\Debug\ClassLibrary_Transaction.pdb
+C:\Users\Stagiaire\Documents\CDA\Conception_Partie2_CDA\Presentation_DD_PROXY\DemoTransaction\AppTransaction\obj\Debug\AppTransaction.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\CDA\Conception_Partie2_CDA\Presentation_DD_PROXY\DemoTransaction\AppTransaction\obj\Debug\AppTransaction.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stagiaire\Documents\CDA\Conception_Partie2_CDA\Presentation_DD_PROXY\DemoTransaction\AppTransaction\obj\Debug\AppTransaction.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\CDA\Conception_Partie2_CDA\Presentation_DD_PROXY\DemoTransaction\AppTransaction\obj\Debug\AppTransaction.csproj.CopyComplete
+C:\Users\Stagiaire\Documents\CDA\Conception_Partie2_CDA\Presentation_DD_PROXY\DemoTransaction\AppTransaction\obj\Debug\AppTransaction.exe
+C:\Users\Stagiaire\Documents\CDA\Conception_Partie2_CDA\Presentation_DD_PROXY\DemoTransaction\AppTransaction\obj\Debug\AppTransaction.pdb

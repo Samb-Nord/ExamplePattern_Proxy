@@ -1,0 +1,12 @@
+C:\Users\Stagiaire\Documents\CDA\Conception_Partie2_CDA\Presentation_DD_PROXY\DemoTransaction\ClassLibrary_Transaction\bin\Debug\ClassLibrary_Transaction.dll
+C:\Users\Stagiaire\Documents\CDA\Conception_Partie2_CDA\Presentation_DD_PROXY\DemoTransaction\ClassLibrary_Transaction\bin\Debug\ClassLibrary_Transaction.pdb
+C:\Users\Stagiaire\Documents\CDA\Conception_Partie2_CDA\Presentation_DD_PROXY\DemoTransaction\ClassLibrary_Transaction\obj\Debug\ClassLibrary_Transaction.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\CDA\Conception_Partie2_CDA\Presentation_DD_PROXY\DemoTransaction\ClassLibrary_Transaction\obj\Debug\ClassLibrary_Transaction.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\CDA\Conception_Partie2_CDA\Presentation_DD_PROXY\DemoTransaction\ClassLibrary_Transaction\obj\Debug\ClassLibrary_Transaction.dll
+C:\Users\Stagiaire\Documents\CDA\Conception_Partie2_CDA\Presentation_DD_PROXY\DemoTransaction\ClassLibrary_Transaction\obj\Debug\ClassLibrary_Transaction.pdb
+C:\Users\Stagiaire\Documents\CDA\CDA_WORK\DESIGN-PATTERNS\Presentation_PROXY\DemoTransaction\ClassLibrary_Transaction\bin\Debug\ClassLibrary_Transaction.dll
+C:\Users\Stagiaire\Documents\CDA\CDA_WORK\DESIGN-PATTERNS\Presentation_PROXY\DemoTransaction\ClassLibrary_Transaction\bin\Debug\ClassLibrary_Transaction.pdb
+C:\Users\Stagiaire\Documents\CDA\CDA_WORK\DESIGN-PATTERNS\Presentation_PROXY\DemoTransaction\ClassLibrary_Transaction\obj\Debug\ClassLibrary_Transaction.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\CDA\CDA_WORK\DESIGN-PATTERNS\Presentation_PROXY\DemoTransaction\ClassLibrary_Transaction\obj\Debug\ClassLibrary_Transaction.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\CDA\CDA_WORK\DESIGN-PATTERNS\Presentation_PROXY\DemoTransaction\ClassLibrary_Transaction\obj\Debug\ClassLibrary_Transaction.dll
+C:\Users\Stagiaire\Documents\CDA\CDA_WORK\DESIGN-PATTERNS\Presentation_PROXY\DemoTransaction\ClassLibrary_Transaction\obj\Debug\ClassLibrary_Transaction.pdb

@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\CDA\CDA_WORK\DESIGN-PATTERNS\Presentation_PROXY\DemoTransaction\WindowsFormsAppProxy\bin\Debug\WindowsFormsAppProxy.exe.config
+C:\Users\Stagiaire\Documents\CDA\CDA_WORK\DESIGN-PATTERNS\Presentation_PROXY\DemoTransaction\WindowsFormsAppProxy\bin\Debug\WindowsFormsAppProxy.exe
+C:\Users\Stagiaire\Documents\CDA\CDA_WORK\DESIGN-PATTERNS\Presentation_PROXY\DemoTransaction\WindowsFormsAppProxy\bin\Debug\WindowsFormsAppProxy.pdb
+C:\Users\Stagiaire\Documents\CDA\CDA_WORK\DESIGN-PATTERNS\Presentation_PROXY\DemoTransaction\WindowsFormsAppProxy\bin\Debug\ClassLibrary_Transaction.dll
+C:\Users\Stagiaire\Documents\CDA\CDA_WORK\DESIGN-PATTERNS\Presentation_PROXY\DemoTransaction\WindowsFormsAppProxy\bin\Debug\ClassLibrary_Transaction.pdb
+C:\Users\Stagiaire\Documents\CDA\CDA_WORK\DESIGN-PATTERNS\Presentation_PROXY\DemoTransaction\WindowsFormsAppProxy\obj\Debug\WindowsFormsAppProxy.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\CDA\CDA_WORK\DESIGN-PATTERNS\Presentation_PROXY\DemoTransaction\WindowsFormsAppProxy\obj\Debug\WindowsFormsAppProxy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stagiaire\Documents\CDA\CDA_WORK\DESIGN-PATTERNS\Presentation_PROXY\DemoTransaction\WindowsFormsAppProxy\obj\Debug\WindowsFormsAppProxy.FormCompte.resources
+C:\Users\Stagiaire\Documents\CDA\CDA_WORK\DESIGN-PATTERNS\Presentation_PROXY\DemoTransaction\WindowsFormsAppProxy\obj\Debug\WindowsFormsAppProxy.FormConnexion.resources
+C:\Users\Stagiaire\Documents\CDA\CDA_WORK\DESIGN-PATTERNS\Presentation_PROXY\DemoTransaction\WindowsFormsAppProxy\obj\Debug\WindowsFormsAppProxy.Properties.Resources.resources
+C:\Users\Stagiaire\Documents\CDA\CDA_WORK\DESIGN-PATTERNS\Presentation_PROXY\DemoTransaction\WindowsFormsAppProxy\obj\Debug\WindowsFormsAppProxy.csproj.GenerateResource.cache
+C:\Users\Stagiaire\Documents\CDA\CDA_WORK\DESIGN-PATTERNS\Presentation_PROXY\DemoTransaction\WindowsFormsAppProxy\obj\Debug\WindowsFormsAppProxy.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\CDA\CDA_WORK\DESIGN-PATTERNS\Presentation_PROXY\DemoTransaction\WindowsFormsAppProxy\obj\Debug\WindowsFormsAppProxy.csproj.CopyComplete
+C:\Users\Stagiaire\Documents\CDA\CDA_WORK\DESIGN-PATTERNS\Presentation_PROXY\DemoTransaction\WindowsFormsAppProxy\obj\Debug\WindowsFormsAppProxy.exe
+C:\Users\Stagiaire\Documents\CDA\CDA_WORK\DESIGN-PATTERNS\Presentation_PROXY\DemoTransaction\WindowsFormsAppProxy\obj\Debug\WindowsFormsAppProxy.pdb
